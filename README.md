@@ -1,7 +1,7 @@
 # seaborn-visualisations
 Some basic visual plotting in SeaBorn 
 
-Just playing around with the power of this modile for visualising things 
+Just playing around with the power of this module for visualising things 
 
 ![image](https://user-images.githubusercontent.com/31891933/114148025-40778300-9911-11eb-8fc5-863a88985dd7.png)
 
